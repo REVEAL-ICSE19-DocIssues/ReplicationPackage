@@ -1,6 +1,6 @@
 # Replication Package
 
-This repository contains the public data used in the study "Software Documentation Issues Unveiled", organized this:  
+This repository contains the public data used in the paper "Software Documentation Issues Unveiled":  
 
 ## i.tags-keywords.md
 Tags and keywords used in the data collection phase
